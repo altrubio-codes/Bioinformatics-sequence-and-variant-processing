@@ -2,7 +2,7 @@
 A collection of daily beginner Python scripts practicing sequence cleaning, mutation tracking and pipeline design.
 
 ### Week 1: DNA & RNA Text Processing
-**Day 1: DNA Sequence Cleaner** (`dna_sequence_cleaner.py`) - Cleans messy database text strings by eliminating whitespace and handling mixed cases.
+* **Day 1: DNA Sequence Cleaner** (`dna_sequence_cleaner.py`) - Cleans messy database text strings by eliminating whitespace and handling mixed cases.
 **Day 2: Transcription Simulator** (`dna_transcription.py`) - Replicates cellular transcription by converting Thymine (T) bases to Uracil (U).
 **Day 3: GC Content Calculator** (`gc_calculator.py`) - Utilizes custom mathematical operations to predict sequence stability based on G/C ratios.
 **Day 4: Reverse Complement Generator** (`reverse_complement_generator.py`) - Generates the matching double-helix strand using matrix mapping and reverse slicing.
