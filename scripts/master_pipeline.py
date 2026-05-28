@@ -14,7 +14,7 @@ codon_table = {
 }
 
 # Path to the FASTA file containing the DNA sequence
-file_path = r"c:\Users\Gebruiker\Documents\Visual Studio 18\My codes\bioinformatics\sample.fasta"
+file_path = "../sample.fasta"
 
 # Read the DNA sequence from the FASTA file
 with open(file_path, "r") as file:
