@@ -91,7 +91,7 @@ def translate_rna(rna_sequence):
 
 # Return the final protein sequence after processing all codons
 if __name__ == "__main__":
-     file_path = r"C:\Users\Gebruiker\Documents\Visual Studio 18\My codes\bioinformatics\sample.fasta"
+     file_path = "../sample.fasta"
 
 # Try and except block to handle potential file-related errors gracefully
 try:
