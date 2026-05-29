@@ -1,4 +1,4 @@
-# bioinformatics- Genomics & Protein Data Engineering
+# Bioinformatics- Genomics & Protein Data Engineering
 A collection of daily beginner Python scripts practicing sequence cleaning, mutation tracking and pipeline design.
 
 ### Week 1: DNA & RNA Text Processing
