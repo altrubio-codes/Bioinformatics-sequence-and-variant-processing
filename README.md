@@ -1,4 +1,4 @@
-# Bioinformatics- Genomics & Protein Data Engineering
+# Bioinformatics - Genomics & Protein Data Engineering
 A collection of daily beginner Python scripts practicing sequence cleaning, mutation tracking and pipeline design.
 
 ### Week 1: DNA & RNA Text Processing
@@ -10,7 +10,7 @@ A collection of daily beginner Python scripts practicing sequence cleaning, muta
 * **Day 6: FASTA File Parser** (`FASTA_parser.py`) - Manages File I/O to safely parse and sanitize standard raw biological database assets.
 * **Day 7: Restriction Site Mapper** (`restriction_site_mapper.py`) - Applies conditional logic blocks to isolate specific EcoRI enzyme target zones.
 
-### Week 2: Proteins, Mutations, & Data Engineering
+### Week 2: Proteins, Mutations & Data Engineering
 * **Day 8: RNA Translator** (`RNA_to_protein_translator.py`) - Employs a Python dictionary key-value map to translate single codons.
 * **Day 9: Point Mutation Detector** (`point_mutation_detector.py`) - Computes the Hamming Distance across multiple aligned strands via parallel indexing.
 * **Day 10: Consensus Sequence Creator** (`consensus_sequence_creator.py`) - Tracks localized array majority voting to establish democratic gene consensus profiles.
